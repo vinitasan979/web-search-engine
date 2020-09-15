@@ -1,0 +1,8 @@
+Names: Vincent Vu(27117314/vmvu1), Vinita Santhosh(51795233/santhosv) , Kinjal Reetoo (36923637/kreetoo)
+Professor Cristina Lopes
+CS121
+Project 3: M1
+9 November 2019
+Number of JSON Files: 55393 json files
+Unique number of words  443554 Words
+The size of index is:  20,971,616 bytes = 20971.616KB
